@@ -58,7 +58,7 @@ token = 'aaaaaaaaaa:88888888888888888888888888888888888'
 admin_id = ['000000000']
 ```
 
-**You need to disable Telegram-Bot 'Privacy Mode' to enable reply to talk in group chat.
+**You need to disable Telegram-Bot 'Privacy Mode' to enable reply to talk in group chat.**
 
 5. Run the bot
 
