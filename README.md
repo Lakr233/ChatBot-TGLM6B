@@ -58,7 +58,7 @@ token = 'aaaaaaaaaa:88888888888888888888888888888888888'
 admin_id = ['000000000']
 ```
 
-**You need to disable Telegram-Bot 'Privacy Mode' to enable reply to talk in group chat.**
+**Note: You need to disable Telegram-Bot 'Privacy Mode' to enable reply to talk in group chat.**
 
 5. Run the bot
 
@@ -68,7 +68,7 @@ python3 ./main.py
 
 ## License
 
-[WTFPL](./LICENSE)
+This project is licensed under the [WTFPL](LICENSE). 
 
 ---
 
